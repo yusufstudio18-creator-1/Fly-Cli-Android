@@ -1,2 +1,19 @@
 # Fly-Cli-Android
-link:https://www.mediafire.com/file/v70c8bjzf1cd6of/Fly+Cli+Android+0.3.175.zip/file
+Download Command
+
+
+
+
+wget https://github.com/superfly/flyctl/releases/download/v0.3.175/flyctl_0.3.175_Linux_arm64.tar.gz
+tar -xvzf flyctl_0.3.175_Linux_arm64.tar.gz
+pkg install flyctl
+
+
+
+Normal Commands
+
+flyctl auth login
+
+flyctl launch
+
+flyctl deploy
